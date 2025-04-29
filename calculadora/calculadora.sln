@@ -5,7 +5,13 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calculadora", "calculadora.csproj", "{1F68DA22-F36D-417F-BF30-CB37CB776807}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio", "..\exercicio\exercicio.csproj", "{E4A60B8C-FE99-4294-9867-5D73B3B75DF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exercicio", "..\exercicio\exercicio.csproj", "{E4A60B8C-FE99-4294-9867-5D73B3B75DF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio-01", "..\exercicio-01\exercicio-01.csproj", "{68637EC1-7C66-427F-BA02-E75B1FA11323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio-02", "..\exercicio-02\exercicio-02.csproj", "{A1F6DCDB-59DE-4360-85F5-757017FF1BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio-03", "..\exercicio-03\exercicio-03.csproj", "{56DB0DAC-DCFF-48FE-98AD-6218AABFF177}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{E4A60B8C-FE99-4294-9867-5D73B3B75DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4A60B8C-FE99-4294-9867-5D73B3B75DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4A60B8C-FE99-4294-9867-5D73B3B75DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68637EC1-7C66-427F-BA02-E75B1FA11323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68637EC1-7C66-427F-BA02-E75B1FA11323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68637EC1-7C66-427F-BA02-E75B1FA11323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68637EC1-7C66-427F-BA02-E75B1FA11323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F6DCDB-59DE-4360-85F5-757017FF1BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F6DCDB-59DE-4360-85F5-757017FF1BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F6DCDB-59DE-4360-85F5-757017FF1BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F6DCDB-59DE-4360-85F5-757017FF1BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56DB0DAC-DCFF-48FE-98AD-6218AABFF177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56DB0DAC-DCFF-48FE-98AD-6218AABFF177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56DB0DAC-DCFF-48FE-98AD-6218AABFF177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56DB0DAC-DCFF-48FE-98AD-6218AABFF177}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
